@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nmokas
+ *
+ */
+module ChatRoomClient {
+}
